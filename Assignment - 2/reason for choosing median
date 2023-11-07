@@ -1,0 +1,6 @@
+The median is unaffected by extreme numbers, 
+which makes it an excellent choice for working 
+with skewed or noisy data. It is also easy to 
+calculate and doesn't require complex 
+statistical procedures, which is why I chose it 
+to fill in the missing values in this case.
